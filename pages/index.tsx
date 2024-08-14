@@ -28,7 +28,7 @@ export default function Home() {
         <div className="text-left">
           <button
             onClick={toggleDarkMode}
-            className="absolute top-4 right-4 p-4 rounded-full bg-slate-100 dark:bg-slate-700 text-gray-800 dark:text-gray-200"
+            className="absolute top-0 right-0 p-4 rounded-bl-lg bg-slate-100 dark:bg-slate-700 text-gray-800 dark:text-gray-200"
           >
             {darkMode ? '☀️' : '🌙'}
           </button>
@@ -41,7 +41,7 @@ export default function Home() {
         </div>
 
         <div className="mt-16">
-          <h2 className="font-header text-2xl text-gray-900 dark:text-gray-100">About</h2>
+          <h2 className="font-header text-2xl text-gray-900 dark:text-gray-100">About Me</h2>
           <p className="mt-4 text-gray-500 dark:text-gray-400">
            👋 Hello. I'm Anthony, a product person &amp; designer living in the Berkshires, Massachusetts.
           </p>
