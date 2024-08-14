@@ -78,7 +78,7 @@ export default function Home() {
 
         <div className="mt-16">  
           <div className="text-left space-x-2">
-            <Link href="https://github.com/adeluise">
+            <Link href="https://www.linkedin.com/in/anthonydeluise">
               <a className="underline underline-offset-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" rel="noopener noreferrer">
                 LinkedIn
               </a>
