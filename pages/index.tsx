@@ -50,7 +50,7 @@ export default function Home() {
           </p>
           <p className="mt-4 text-gray-500 dark:text-gray-400">
             I'm head of product at {'\n'}
-            <Link href="https://visitdays.com/" className="underline underline-offset-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" rel="noopener noreferrer">
+            <Link href="https://visitdays.com/" className="underline underline-offset-2 decoration-slate-400 decoration-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" rel="noopener noreferrer">
               VisitDays
             </Link>
             , where I build tools for higher education admissions and enrollment pros to run campus visits, college fairs and international recruitment events. Experienced to lead others, but not afraid to get my hands dirty. My current interests lie at the confluence of the future of work and education, SaaS, automation and political economy. 
@@ -64,7 +64,7 @@ export default function Home() {
           <h2 className="font-header text-2xl text-gray-900 dark:text-gray-100">Projects</h2>
           <ul className="mt-4 space-y-8">
             <li>
-              <Link href="https://apps.apple.com/us/app/4rem-for-sleep/id6450610897" className="underline underline-offset-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" rel="noopener noreferrer">
+              <Link href="https://apps.apple.com/us/app/4rem-for-sleep/id6450610897" className="underline underline-offset-2 decoration-slate-400 decoration-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" target="_blank" rel="noopener noreferrer">
                   4rem
               </Link>
               <p className="mt-2 text-gray-500 dark:text-gray-400">iOS app &amp; IoT connected device antidote to screen time.</p>
@@ -74,19 +74,19 @@ export default function Home() {
 
         <div className="mt-16">  
           <div className="text-left space-x-2">
-            <Link href="https://www.linkedin.com/in/anthonydeluise" className="underline underline-offset-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.linkedin.com/in/anthonydeluise" className="underline underline-offset-2 decoration-slate-400 decoration-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" target="_blank" rel="noopener noreferrer">
                 LinkedIn
             </Link>
             <span className="text-gray-400 dark:text-gray-600">•</span>
-            <Link href="https://www.producthunt.com/@adeluise" className="underline underline-offset-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.producthunt.com/@adeluise" className="underline underline-offset-2 decoration-slate-400 decoration-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" target="_blank" rel="noopener noreferrer">
                 Product Hunt
             </Link>
             <span className="text-gray-400 dark:text-gray-600">•</span>
-            <Link href="https://x.com/adeluise" className="underline underline-offset-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" rel="noopener noreferrer">
+            <Link href="https://x.com/adeluise" className="underline underline-offset-2 decoration-slate-400 decoration-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" target="_blank" rel="noopener noreferrer">
                 Twitter
             </Link>
             <span className="text-gray-400 dark:text-gray-600">•</span>
-            <Link href="https://github.com/adeluise" className="underline underline-offset-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/adeluise" className="underline underline-offset-2 decoration-slate-400 decoration-2 text-slate-600 hover:text-slate-900 dark:text-gray-300 dark:hover:text-gray-100" target="_blank" target="_blank" rel="noopener noreferrer">
                 GitHub
             </Link>
           </div>
